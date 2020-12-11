@@ -1,4 +1,4 @@
 # digitalimage
-Digital environment project V 0.~
+Digital environment project v ~
 
 
