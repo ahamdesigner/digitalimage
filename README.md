@@ -1,4 +1,4 @@
 # digitalimage
-Digital environment project v ~
+Digital environment project v ~ deploy
 
 
