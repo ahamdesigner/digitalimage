@@ -1,4 +1,4 @@
-# digitalimage
-Digital environment project v ~ deploy
+# अङ्कीय प्रतिबिम्ब
+अङ्कीय परिसर प्रोद्यम संस्करण ~ समूही कारयति
 
 
